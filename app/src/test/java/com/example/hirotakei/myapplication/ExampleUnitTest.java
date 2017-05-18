@@ -1,4 +1,4 @@
-package com.example.hirotakei.myfirstapp;
+package com.example.hirotakei.myapplication;
 
 import org.junit.Test;
 
